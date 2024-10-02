@@ -1,1 +1,2 @@
 initial file content entry
+making changes to file, adding a second line of text
